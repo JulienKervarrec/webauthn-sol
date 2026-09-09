@@ -56,3 +56,7 @@ After cloning the repo, run the tests using Forge, from [Foundry](https://github
 ```bash
 forge test
 ```
+
+## Parcours francais
+
+Lecture pedagogique en francais du code source de ce depot : voir docs/fr/README.md.
